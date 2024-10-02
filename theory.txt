@@ -1,0 +1,54 @@
+Problem:
+
+Rahim has 300 tk, went to market and purchase 5 eggs.
+2 kitkat chacholets. per eggs price 10 tk and per Kitkat 
+prices 35 tk.
+Find the Remainig Money?
+
++,-,* use hbe........
+===============================================
+<h1>Problem:</h1>
+    <p>
+        Rahim has 300 tk, went to market and purchase 5 eggs.
+        2 kitkat chacholets. per eggs price 10 tk and per Kitkat 
+        prices 35 tk.
+        Find the Remainig Money?
+    </p>
+    <script>
+        // Total Price 
+        var z = 300;
+
+        // Egg total price
+        var x = 5;
+        var y = 10;
+
+        var et = (x*y);
+        console.log(et);
+
+        // Chocolate total price
+        var x1 = 2;
+        var y1 = 35;
+
+        var cht = (x1*y1);
+        console.log(cht);
+
+        // Egg and Chocolate Total Price
+        var tcost =(et+cht);
+
+        console.log(tcost);
+
+
+        // Remaining Price
+        var remaining =(z-tcost);
+
+        console.log(remaining);
+
+    </script>
+    ========================================================
+Problem: 02
+
+Total donation money for flood effectd people is 50 lacs tk.
+Osme donation money added from an Internatinal org. The donation money from the 
+org is 20 lacs. 
+divide the money between 90 families. How much money will
+get each family...?
